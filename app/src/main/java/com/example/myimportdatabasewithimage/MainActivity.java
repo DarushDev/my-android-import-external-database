@@ -1,6 +1,5 @@
 package com.example.myimportdatabasewithimage;
 
-
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.os.Bundle;

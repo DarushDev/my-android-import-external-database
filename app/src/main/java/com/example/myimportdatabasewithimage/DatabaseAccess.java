@@ -1,9 +1,5 @@
 package com.example.myimportdatabasewithimage;
 
-/**
- * Created by Darush on 9/14/2016.
- */
-
 import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
